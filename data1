@@ -41,49 +41,18 @@
       "levelName": [
         "Ability"
       ]
-    },
-    {
-      "image": "https://pubgmobile2020.s3.ap-south-1.amazonaws.com/pubs/characters/2.png",
-      "name": "SARA",
-      "info": "Sara is currently active and can be accessed by attending events to win character coupons. 60 character coupons can improve your driving skills and give you a competitive edge when engaging in road battles. Here are some of the main abilities Sara possesses: \n Voice Chat: When it comes to one of the most important features used by PUBG MOBILE players, Sara has a completely different voice. Imagine how your team would feel if you said, \"Want a drink before going?\". Sara has such quirky voice commands that the user can unlock. \n Outfits and Skins: One good thing about being a female character is that Sara has many new outfits and skins that match her personality. Ranging from classic colorful vests to striking coats to elevate her wardrobe. \n Key Abilities: Sara is a legend, as a female character, her primary ability is to manage vehicles. Sara is an auto expert, loves cars and rides, she's good at reinforcing vehicles, so they can get less damage when she is driving or driving. \n Dance moves: Imagine knocking down someone in the game, then walk in front of them and show off dance moves and celebrations they've never seen before. Sara has got some brand new signatures to stun your friends and opponents. \n Availability: PUBG MOBILE players can purchase in-game characters from the store for just 60 Character Coupons. The character has the ability to absorb and learn new things as the user progresses to new levels.",
-      "level": [
-        "Sara is a woman in PUBG Mobile who has the ability to be with vehicles. This character can increase the durability of the vehicle being driven so that it becomes thicker and less explosive. Sara increases durability by up to 10%.",
-        "You can buy this character for 600 UC or 600 character vouchers."
-      ],
-      "levelName": [
-        "Ability 1",
-        "Ability 2"
-      ]
-    },
-    {
-      "image": "https://pubgmobile2020.s3.ap-south-1.amazonaws.com/pubs/characters/3.png",
-      "name": "CARLO",
-      "info": "Carlo has a deadly look with a warrior-like hairstyle. Everyone wants to grasp this character. Old players only need to buy characters at the right rate of 1040 UC points. However, gamers who really like to earn rewards must win coupons by winning signals in Event mode. The question is, many people still do not understand how to win Carlo, so this is how to unlock Carlo characters in PUBG mobile. Carlo characters can only be earned by completing daily quests. Players are assigned new quests daily, and coupons are only awarded when the quest is completed. To get the first clue, mobile PUBG players have to share the event with their friends via WhatsApp or Facebook, and the second clue comes after the daily quest is complete. As you earn clues, click \"collect\" to get a Carlo character coupon. Easy but difficult missions like 1000M travel in Classic Mode, and for each mission they pass, the player gets 60 Carlo character coupons. You get 60 character coupons per day on PUBG mobile every time you complete the mission. The character acquisition quest is only available until March 6th. So you have to collect 240 vouchers to get a Carlo character. This means you have to complete daily quests and earn 60 coupons to unlock new characters Carlo in PUBG for free. If you missed out on a task for the day, don't worry, as you can still try; however, if you miss the chance, you can still play and earn UC points or simply buy them.",
-      "level": [
-        "Carlo has the skill to reduce the damage received when he falls by up to 24% depending on the character’s level.",
-        "You can buy Carlo with 1200 UC or 1200 Character Vouchers."
-      ],
-      "levelName": [
-        "Ability 1",
-        "Ability 2"
-      ]
-    },
-    {
-      "image": "https://pubgmobile2020.s3.ap-south-1.amazonaws.com/pubs/characters/4.png",
-      "name": "ANDY",
-      "info": "So behind the mystery, Andy is actually a magician and puppeteer in PUBG World, but his career ended in an accident. In revenge, he briefly taught himself to be a gun master and tested his combat skills. That is his story. Now that you know, let's see what he can do. Like every other character in PUBG Mobile, Andy will be available in EvoGround mode, but not in TDM Mode. His abilities include fast pistol draw and gun shooting. Players will be able to upgrade Andy up to 10 levels, unlocking his new abilities on each level. For example, if the player upgrades the character to level 2, the rate of draw and gun assembly will increase by 10%. Andy's speed can also be increased by up to 16% when it reaches level 9. There are also many other features like MVP icons, voice commands and unique emojis, which have been added in other levels. together.",
-      "level": [
-        "Andy can increase the speed of throwing and changing weapons by 16% depending on the character’s level.",
-        "You can buy Andy with 1200 UC or 1200 Character Vouchers."
-      ],
-      "levelName": [
-        "Ability 1",
-        "Ability 2"
-      ]
     }
   ],
   "vehicles": [
-    
+    {
+      "image": "https://pubgmobile2020.s3.ap-south-1.amazonaws.com/pubs/vehicles/1.png",
+      "name": "Buggy",
+      "desc": "Type: Land \nTips: Attempting to exit a moving vehicle can result in player damage and even instant death as long as the vehicle is moving.",
+      "property1": 2,
+      "property2": 100,
+      "property3": 1540,
+      "property4": 0
+    }
   ],
   "weapons": [
     {
@@ -104,253 +73,6 @@
       "property7": 40,
       "property8": 69,
       "dan": 100
-    },
-    {
-      "image": "https://pubgmobile2020.s3.ap-south-1.amazonaws.com/pubs/weapons/2.png",
-      "name": "M416",
-      "desc": "The M416 is a very reliable weapon that fires 5.56mm rounds and offers single-shot and fully-automatic firing options. The SCAR-L could very well be in this place, but the M416 offers a slightly higher fire rate and can fit a stock, which elevates it above its peers. ",
-      "type": "Assault Rifles",
-      "attribute": [
-        "",
-        ""
-      ],
-      "property1": 43,
-      "property2": 0.086,
-      "property3": 502,
-      "property4": 0.257,
-      "property5": 4,
-      "property6": 2,
-      "property7": 40,
-      "property8": 69,
-      "dan": 100
-    },
-    {
-      "image": "https://pubgmobile2020.s3.ap-south-1.amazonaws.com/pubs/weapons/3.png",
-      "name": "S12K",
-      "desc": "The S12K is probably one of the best shotguns in the game. While it has immense recoil and slightly lesser damage, it makes up for it with its semi-automatic fire rate. It also fits a number of assault rifle attachments, which add to its versatility.",
-      "type": "Shotguns",
-      "attribute": [
-        "",
-        ""
-      ],
-      "property1": 198,
-      "property2": 0.25,
-      "property3": 792,
-      "property4": 0,
-      "property5": 1,
-      "property6": 1,
-      "property7": 40,
-      "property8": 69,
-      "dan": 100
-    },
-    {
-      "image": "https://pubgmobile2020.s3.ap-south-1.amazonaws.com/pubs/weapons/4.png",
-      "name": "S1897",
-      "desc": "The S1897 is a pump-action shotgun that offers a slow firing-rate in exchange for a lot of damage. Like all shotguns, it has a short-range but has the potential to kill opponents in a shot or two.   ",
-      "type": "Shotguns",
-      "attribute": [
-        "",
-        ""
-      ],
-      "property1": 216,
-      "property2": 0.75,
-      "property3": 288,
-      "property4": 0,
-      "property5": 1,
-      "property6": 1,
-      "property7": 40,
-      "property8": 69,
-      "dan": 100
-    },
-    {
-      "image": "https://pubgmobile2020.s3.ap-south-1.amazonaws.com/pubs/weapons/5.png",
-      "name": "AWM",
-      "desc": "The AWM is only available via airdrops and only uses magnum bullets, which are also only available via airdrops. However, the sheer damage output of the weapon more than makes up for its drawbacks. Not only that but the sound of it being fired also has a psychological effect on any other player who hears it.",
-      "type": "Sniper Rifles",
-      "attribute": [
-        "",
-        ""
-      ],
-      "property1": 105,
-      "property2": 1.85,
-      "property3": 65,
-      "property4": 1.85,
-      "property5": 2,
-      "property6": 1,
-      "property7": 40,
-      "property8": 69,
-      "dan": 100
-    },
-    {
-      "image": "https://pubgmobile2020.s3.ap-south-1.amazonaws.com/pubs/weapons/6.png",
-      "name": "Kar98K",
-      "desc": "It was a close battle between the Kar98K and the M24. While the M24 offers higher damage, the Kar98K is more readily available, which nudges it just higher than the M24, in our opinion. However, if you do find the M24, TAKE IT! The Kar98K uses 7.62mm rounds and is capable of killing lightly armoured opponents with a single shot to the head.",
-      "type": "Sniper Rifles",
-      "attribute": [
-        "",
-        ""
-      ],
-      "property1": 75,
-      "property2": 1.9,
-      "property3": 39,
-      "property4": 38,
-      "property5": 2,
-      "property6": 1,
-      "property7": 40,
-      "property8": 69,
-      "dan": 100
-    },
-    {
-      "image": "https://pubgmobile2020.s3.ap-south-1.amazonaws.com/pubs/weapons/7.png",
-      "name": "M14 EBR",
-      "desc": "Like the AWM, the M14 EBR is only available via airdrops, but its damage output makes it worthy of the list. Like all DMRs, it offers a relatively fast rate of fire with high damage. As such, it makes for a very good option for new players who want to start sniping. ",
-      "type": "DMR",
-      "attribute": [
-        "",
-        ""
-      ],
-      "property1": 61,
-      "property2": 0.09,
-      "property3": 678,
-      "property4": 0.18,
-      "property5": 3,
-      "property6": 2,
-      "property7": 40,
-      "property8": 69,
-      "dan": 100
-    },
-    {
-      "image": "https://pubgmobile2020.s3.ap-south-1.amazonaws.com/pubs/weapons/8.png",
-      "name": "SKS",
-      "desc": "The SKS just manages to pip its bigger brother, the SLR. While the SLR has a higher damage output, the SKS is more easily available. Not only that, but it offers more attachment options. This gives it a slight edge over its brother, but if you do find the SLR, you may want to think long and hard about swapping weapons.",
-      "type": "DMR",
-      "attribute": [
-        "",
-        ""
-      ],
-      "property1": 53,
-      "property2": 0.1,
-      "property3": 530,
-      "property4": 0.2,
-      "property5": 3,
-      "property6": 2,
-      "property7": 40,
-      "property8": 69,
-      "dan": 100
-    },
-    {
-      "image": "https://pubgmobile2020.s3.ap-south-1.amazonaws.com/pubs/weapons/9.png",
-      "name": "UMP45",
-      "desc": "The UMP45 offers a slower rate of fire than most other SMGs in the game but makes up for it through very stable recoil, making it a good choice for new and experienced players when it comes to mid-range shootouts. Additional attachments make the weapon more usable, even in the mid-to-late game stages.",
-      "type": "SMG",
-      "attribute": [
-        "",
-        ""
-      ],
-      "property1": 39,
-      "property2": 0.092,
-      "property3": 423,
-      "property4": 0.369,
-      "property5": 5,
-      "property6": 3,
-      "property7": 40,
-      "property8": 69,
-      "dan": 100
-    },
-    {
-      "image": "https://pubgmobile2020.s3.ap-south-1.amazonaws.com/pubs/weapons/10.png",
-      "name": "Micro Uzi",
-      "desc": "The Micro Uzi’s rate of fire is more akin to a garden hose rather than a gun. Just make sure you attach its dedicated Micro Uzi stock attachment and you can pretty much hip-fire through most close-quarters engagements. So you can riddle opponents with bullets even before they have had the chance to aim their gun at you",
-      "type": "SMG",
-      "attribute": [
-        "",
-        ""
-      ],
-      "property1": 26,
-      "property2": 0.048,
-      "property3": 542,
-      "property4": 0.288,
-      "property5": 7,
-      "property6": 4,
-      "property7": 40,
-      "property8": 69,
-      "dan": 100
-    },
-    {
-      "image": "https://pubgmobile2020.s3.ap-south-1.amazonaws.com/pubs/weapons/11.png",
-      "name": "S686",
-      "desc": "The S686 shotgun is a break-action shotgun that is pretty much a full-sized version of the sawed-off shotgun. This means that it too offers a 2-round magazine that can be let off in quick succession. But the weapon will require almost constant reloading. It also does pretty much the same damage as the S1897 shotgun, but with only 2 rounds in the magazine. So you are pretty much better off with another weapon that is more versatile.",
-      "type": "Shotguns",
-      "attribute": [
-        "",
-        ""
-      ],
-      "property1": 216,
-      "property2": 0.2,
-      "property3": 1080,
-      "property4": 0,
-      "property5": 1,
-      "property6": 1,
-      "property7": 40,
-      "property8": 69,
-      "dan": 100
-    },
-    {
-      "image": "https://pubgmobile2020.s3.ap-south-1.amazonaws.com/pubs/weapons/12.png",
-      "name": "Groza",
-      "desc": "Groza is a drop-exclusive rare Assault Rifle in PUBG Mobile. It inflicts a high damage of 47 and uses the 7.62mm ammo type. The gun also has a high fire rate of 0.080 seconds and a magazine size of 30 rounds. Groza's high fire rate, combined with the fact that it is an insanely effective weapon, makes it a must-pick for players.",
-      "type": "Assault Rifles",
-      "attribute": [
-        "",
-        ""
-      ],
-      "property1": 49,
-      "property2": 0.08,
-      "property3": 612.5,
-      "property4": 0.24,
-      "property5": 5,
-      "property6": 3,
-      "property7": 40,
-      "property8": 69,
-      "dan": 100
-    },
-    {
-      "image": "https://pubgmobile2020.s3.ap-south-1.amazonaws.com/pubs/weapons/13.png",
-      "name": "AUG A3",
-      "desc": "AUG A3 is a drop-exclusive rare weapon. It has a hit damage of 41 and uses the 5.56mm ammo type. The gun has a high fire rate of 0.08571 seconds and comes with a 30-rounds magazine. The AUG A3 is easy to control and inflicts massive damage in close-range battles. The weapon does not depend on a lot of attachments to be effective.",
-      "type": "Assault Rifles",
-      "attribute": [
-        "",
-        ""
-      ],
-      "property1": 43,
-      "property2": 0.086,
-      "property3": 502,
-      "property4": 0.257,
-      "property5": 5,
-      "property6": 3,
-      "property7": 40,
-      "property8": 69,
-      "dan": 100
-    },
-    {
-      "image": "https://pubgmobile2020.s3.ap-south-1.amazonaws.com/pubs/weapons/14.png",
-      "name": "Beryl M762",
-      "desc": "Beryl M762 is a spawn weapon that is commonly found on the map. It has an outstanding hit damage of 46 and uses the 7.62mm ammo type. The gun has a high fire rate of 0.086 seconds and comes loaded with a 30-rounds magazine. The Beryl M762 beats AKM to be in the 4th position on this list because of its ability to reduce recoil significantly using proper attachments.",
-      "type": "Assault Rifles",
-      "attribute": [
-        "",
-        ""
-      ],
-      "property1": 47,
-      "property2": 0.086,
-      "property3": 547,
-      "property4": 0.258,
-      "property5": 4,
-      "property6": 2,
-      "property7": 40,
-      "property8": 69,
-      "dan": 100
     }
   ],
   "maps": [
@@ -358,26 +80,6 @@
       "image": "https://pubgmobile2020.s3.ap-south-1.amazonaws.com/pubs/maps/1.png",
       "name": "Erangel",
       "desc": "PUBG's original map, Erangel is an 8x8 island whose terrain ranges from open grasslands to tall mountains, with cities and towns mixed in-between. Two bridges connect the larger portion of the island to Erangel's Military Base, making for a dangerous route to and from the small island."
-    },
-    {
-      "image": "https://pubgmobile2020.s3.ap-south-1.amazonaws.com/pubs/maps/2.png",
-      "name": "Miramar",
-      "desc": "Miramar is the traditional 8x8 map size with more of a desert theme. By sheer land mass, it is the biggest map in PUBG with the vast majority of the space being filled by land and a couple of small cities. It's rough terrain means off-road driving is more difficult and the lack of trees make for a sniper's haven."
-    },
-    {
-      "image": "https://pubgmobile2020.s3.ap-south-1.amazonaws.com/pubs/maps/3.png",
-      "name": "Sanhok",
-      "desc": "PUBG's smallest map, Sanhok, is a dense island full of trees and hills. Rivers split the island into 3 major sections, so players will have to assess the risks of crossing through water or over one of the island's many bridges. Sanhok's size and available loot lead to a much more hectic and fast-paced battle than traditional PUBG maps."
-    },
-    {
-      "image": "https://pubgmobile2020.s3.ap-south-1.amazonaws.com/pubs/maps/4.png",
-      "name": "Vikendi",
-      "desc": "The snow-covered fields of Vikendi bring a unique new feel to PUBG in this 6x6 map. With frozen bodies of water, special vehicles to traverse the snowy landscapes, and footprints to track your enemies, Vikendi is an entirely different way to experience thrilling PUBG gameplay."
-    },
-    {
-      "image": "https://pubgmobile2020.s3.ap-south-1.amazonaws.com/pubs/maps/5.png",
-      "name": "Camp Jackal",
-      "desc": "Camp Jackal lets 5 - 20 players practice all aspects of PUBG, from driving the game’s various vehicles around the island’s race tracks, to practicing parachute landings on scattered targets, to mastering the perfect peek shot. There are even areas to practice vaulting, close-quarters combat and of course, vehicle jumps. Range will give new players a better understanding of the basics of navigation, looting, shooting, driving and parachuting. Casual players should have fun experimenting in our expansive playground environment; stunt driving, boat racing and exploring the island. More serious players should enjoy learning about deeper gunplay; how the attachments, scopes, recoil, zeroing and bullet-drop influence their shots."
     }
   ],
   "guides": [
@@ -385,46 +87,6 @@
       "title": "Choose where to land very carefully",
       "content": "A game of PUBG can last as long as half an hour or, if things go horribly wrong, it can all be over in a few seconds. One surefire way of exiting early is by misjudging your initial landing spot, which is why it’s first on our list of PUBG Mobile tips and tricks. \n As a general rule of thumb, you want to aim for the best loot spots in the game map you’re playing on, while also avoiding as many other players as possible. There are some particular areas that regularly spawn the best weapons and armor such as the military base, power plant, or the various major towns in the original map Erangel, but bare in mind that other seasoned players will be heading there too.Once you’ve jumped out of the cargo plane, keep an eye out for swarms of other players heading to a single location and avoid those areas like the plague. Likewise, don’t just aimlessly drift once you’re in freefall—pinpoint a safe enough area, preferably with buildings so you can grab some loot, and push forward to speed your way there. Buildings will show up as white blocks on the mini map, so make sure you’re heading in the right direction. If you can’t see one you can always open your parachute early and coast over to a decent landing zone. Just be aware that every second you spend in the sky is a second your opponents will be using to scoop up loot.",
       "image": "https://pubgmobile2020.s3.ap-south-1.amazonaws.com/pubs/guides/1.png"
-    },
-    {
-      "title": "Loot first, shoot later",
-      "content": "Let me re-emphasize this one last time—if you die in PUBG you are dead. In solo play, there are no second chances, and in squads you’ll be putting your team’s chances of victory at risk if you keep getting downed early. Once you hit the floor, your first priority is gearing up so you don’t get clipped in any initial skirmishes. You’ll find crucial loot scattered around in buildings and supply crate drops. The latter contain the most sought-after weapons like the insanely powerful AWM sniper rifle but remember you won’t be the only one hoping to grab the spoils.\n The most important loot in the early stages is a half-decent weapons, ammo, and some reasonable armor, as well as a backpack upgrade (up to level 3) so you have room for better gear as you start exploring. Any gun is better than your fists or even the legendary PUBG frying pan, so grab any nearby firearms before engaging a foe. Armor is also crucial so you can take more hits in a firefight. Like the backpack, head and body armor is graded from level 1 to 3, but level 3 armor is fairly rare. Aim for level 2 armor before picking a scrap, or level 1 at a bare minimum. Health items are also a priority. First aid kits are preferable, but bandages, painkillers, and the like will all help in a pinch. Thrown items like grenades will become more important later on as an offensive or distraction tool once the player count has diminished, but don’t be afraid to throw an explosive surprise if you come across an unsuspecting group early on.",
-      "image": "https://pubgmobile2020.s3.ap-south-1.amazonaws.com/pubs/guides/2.png"
-    },
-    {
-      "title": "Only shoot when you’re in range",
-      "content": "This is the ultimate rookie error and it’ll get you killed more than anything else in PUBG Mobile. Deciding when to hide and when to attack is a tricky balancing act, but you should never ever open fire unless you know your weapon has a chance of hitting the target. While knowing when you’re in range will take some practice for complete newcomers, if you have any experience with PvP shooters you’ll already have a fair understanding of the basics. Shotguns (especially the awesome S12K) and SMGs are useful for up-close burst damage, assault rifles and pistols are good for mid-range fights, and sniper rifles are perfect for long distance pot shots. \n If you’re shooting at a distant enemy with, say, the otherwise fairly strong Tommy Gun, all you’re doing is giving away your position which is a fatal mistake. Attachments can extend the range of some weapons—assault rifles with scopes can sometimes be better than sniper rifles—but some guns are only useful in specific circumstances. Shotguns, for example, are a great tool for clearing out a building but are practically useless out in the open fields. Where possible, try to keep complementary weapons on hand and don’t carry two weapons that fulfill the same purpose.",
-      "image": "https://pubgmobile2020.s3.ap-south-1.amazonaws.com/pubs/guides/3.png"
-    },
-    {
-      "title": "Keep an eye on the map",
-      "content": "It’ll take a fair few games to learn the layout of certain areas of the PUBG map, let alone the whole thing. While you’re getting used to the landscape, make sure you’re paying attention to the mini map and keeping an eye on the diminishing play area. In PUBG, the only safe area lies within “The Circle”. This circle will begin to shrink at select times during the match and if you find yourself outside of it for too long, you’ll eventually die. The damage you take in this electrified blue field will increase as the circle shrinks. Early on you’ll be fine for a few minutes, while in the very final stage you won’t last more than ten seconds. \n Each new circle will show on your map as a white outline, so if you watch your map you’ll always know where to go next. There’s no need to rush in the early phases, but towards the end you’ll need to get moving to avoid death while also trying to steer clear of other players who will be doing the same thing. You should always be trying to remain in cover where possible, but if you do need to move, move quickly and with purpose. The mini map also has one final trick up its sleeve that you absolutely need to look out for—a fire indicator. If you hear gunfire in your vicinity, have a quick glance at the map and it’ll show exactly where it’s coming from.",
-      "image": "https://pubgmobile2020.s3.ap-south-1.amazonaws.com/pubs/guides/4.png"
-    },
-    {
-      "title": "Wheels are better than legs",
-      "content": "Need to get somewhere fast? Then you need a vehicle, my friend. Vehicles are littered all around each of the game’s maps but you’ll find them most commonly near the larger cities and on the main roads. Unfortunately, while there are plenty of vehicles to go around, there’s also up to 99 other players potentially looking to get behind the wheel too, so be sure it’s safe before approaching. The motorcycle and buggy are both great for zipping to the next play area but will leave you relatively exposed. Larger vehicles like the jeep will be slower but are great for carrying around four players with a nice amount of protection. PUBG Mobile’s touchscreen controls can be a bit fiddly at the best of times, so you can imagine how difficult it is to deliver a lethal blow to an opponent when they’re driving straight at you. The downside, however, is the amount of attention you’ll draw thanks to those loud engines.",
-      "image": "https://pubgmobile2020.s3.ap-south-1.amazonaws.com/pubs/guides/5.png"
-    },
-    {
-      "title": "Hide and peek",
-      "content": "PUBG games almost always end with a tiny group of fighters lying around on the floor hoping someone else pops their head up first. That person usually gets domed immediately, by the way, so make sure it isn’t you. Going fully prone in PUBG is an important maneuver, so much so that it has its own dedicated button. It’s also a double-edged sword, however, as while you’ll get a nice recoil and accuracy boost and generally be a little more hidden, mobility is almost non-existent. If someone approaches you from behind while you’re on your chest, you’re almost definitely going to end up dead—especially if you’re looking through a scope at the same time. Keep an eye on your mini map and the surroundings before hitting the floor, and don’t be afraid to flank your opponents when they’re lying down. When out in the open, taking advantage of rocks and the sides of buildings for cover can be a much safer alternative. What PUBG doesn’t tell you is that you can actually peek around the side of cover without exposing your squishy limbs, but to do that you’ll have to take a quick trip to the Settings > Basic menu. \n Simply toggle Peek & Fire to “Enable” and you’ll be able to peer around corners. Just be aware that you’re far from invulnerable when doing this, as your head will lean with you, but you’ll be a much smaller target. One final point on controls: remap the buttons if you need to. There are three presets for both general and vehicle controls to choose from, but if you can tweak these even further by hitting the Customize option. You can move around every single aspect of the HUD to your liking, increase button sizes, and alter icon transparency, and you can also reset everything to default if you mess up.",
-      "image": "https://pubgmobile2020.s3.ap-south-1.amazonaws.com/pubs/guides/6.png"
-    },
-    {
-      "title": "Communicate with your squadmates",
-      "content": "PUBG can be very lonely when you’re squatting in a field somewhere all alone, just waiting for a chance to strike. That all changes in duo or group play where strategic play and constant communication are key to victory. Almost every aspect of PUBG changes in co-op, be it choosing a place to land, deciding who takes what loot, picking a target, or even calling who gets to ride shotgun in a vehicle. Attacking in numbers is far safer than splitting up, but equally, you’ll need to maintain a little distance from your allies from time to time to flank opponents and hold vantage points. Thankfully, PUBG Mobile supports native voice chat using your device’s speakers and microphone, although you will have to enable the latter in Settings > Audio. You can even choose your language to ensure you can communicate effectively with your squad. Alternatively, if you have a few buddies, you can always use voice and chat apps like Discord. If you absolutely must remain quiet, make sure to at least use the game’s built-in quick chat feature. It lets you send messages like “I’ll cover you” or “Enemies ahead” at the tap of a button.",
-      "image": "https://pubgmobile2020.s3.ap-south-1.amazonaws.com/pubs/guides/7.png"
-    },
-    {
-      "title": "Know your maps",
-      "content": "While most of PUBG Mobile’s maps are more than familiar to fans of PUBG, it’s important to learn weapon and item spawns in each map in order to maximize your chances of winning. This will not only influence your landing spot, but also where you should move as the match progresses. Knowing your maps is even more important now that Miramar, Sanhok, and the newly added snow map Vikendi have all been added to the game. In the case of Vikendi, the map features a few extras like snow mobiles. You’ll learn the best hiding spots as you play, but you can learn faster by limiting the maps in the pool by unselecting them before starting a match. Do this and you’ll be an expert in no time at all.",
-      "image": "https://pubgmobile2020.s3.ap-south-1.amazonaws.com/pubs/guides/8.png"
-    },
-    {
-      "title": "Gain additional rewards with the Royale Pass",
-      "content": "Unlike the previous PUBG Mobile tips, this one won’t help you win any games. With the release of PUBG Mobile update 0.6.0, the game features a Fortnite-like Royale Pass with loads of rewards to unlock as you move up the ranks. Much like Fortnite’s Battle Pass, the basic version of the Royale Pass is free, while the Elite Royale Pass costs the game’s premium currency, UC. There is also a more expensive version (Elite Pass Plus) that instantly grants 25 ranks and a few other goodies. \n The rewards won’t give you an in-game boost, but they will definitely get you some style points with new outfits and other cosmetic items. You can even earn experience and BP cards to gain rewards faster, as well as flat bonuses of UC or BP to pick up new cosmetics in the store.",
-      "image": "https://pubgmobile2020.s3.ap-south-1.amazonaws.com/pubs/guides/9.png"
     }
   ]
 }
