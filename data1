@@ -32,7 +32,7 @@
   "tou": "",
   "characters": [
     {
-      "image": "https://raw.githubusercontent.com/AnhPham-Repository/HelloNeighbor/441ea55d31ab354b38c70048659524b3d3c61383/Character_Pradot.jpg",
+      "image": "https://raw.githubusercontent.com/AnhPham-Repository/HelloNeighbor/main/Character_Pradot.png",
       "name": "ABBBBBBBB",
       "info": "PUBG Mobile recently received a new character system with the advent of Victor. This character is free for everyone and gives players a special privilege. Victor is a \"submachine gun enthusiast\" due to his reduced reload time on all SMG weapons he uses. At level one, his reload time has been increased by four percent. But this number will increase as new character levels are unlocked. At level nine, his reload time is reduced by 10%, this reduced reload time only applies to Evo Ground modes (except Team Deathmatch) in PUBG Mobile. This character can be played in classic matches, but his own perks will have no effect. Victor has unique outfits just for him. He also has exclusive voice messages and emojis. The character has 10 unlockable levels. Each level offers a new feature for the character. Level two unlocks new voice messages while level three will increase reload time even more. Reaching level 10 will bring players the MVP emoji, Victory again. Playing with the character will grant the XP used to level him up. You can also purchase XP to quickly level up your character, and there are specific voice messages, skins, and emojis that can't be unlocked during your level up. The pieces, which can be purchased with UC, are used to unlock these features. Tencent will certainly release more characters for the battle royale game. However, these characters may not be offered for free like Victor and will have different perks.",
       "level": [
@@ -45,7 +45,7 @@
   ],
   "vehicles": [
     {
-      "image": "https://pubgmobile2020.s3.ap-south-1.amazonaws.com/pubs/vehicles/1.png",
+      "image": "https://raw.githubusercontent.com/AnhPham-Repository/HelloNeighbor/main/Character_Pradot.png",
       "name": "Buggy",
       "desc": "Type: Land \nTips: Attempting to exit a moving vehicle can result in player damage and even instant death as long as the vehicle is moving.",
       "property1": 2,
